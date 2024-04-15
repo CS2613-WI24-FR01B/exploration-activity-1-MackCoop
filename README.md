@@ -9,3 +9,6 @@ To run my program from the terminal window:
 2. Install the chart.js package using "npm install chart.js"
 3. Run the program by typing: "npm run dev"
 4. Open the http address created in the terminal
+
+Example:
+![Screenshot 2024-04-15 150503](https://github.com/CS2613-WI24-FR01B/exploration-activity-1-MackCoop/assets/97409878/714bd668-51b0-4d11-8bc8-60ce9303744f)
